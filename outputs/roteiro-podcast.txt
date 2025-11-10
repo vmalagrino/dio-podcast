@@ -1,0 +1,23 @@
+🎙 1. Abertura (30s)
+"Olá, seja bem-vindo ao Front e Rabiscos!
+Aqui a gente fala sobre desenvolvimento front-end de um jeito simples e sem complicação, especialmente para quem está começando.
+Se você gosta de tecnologia, arte e criação, esse é o seu lugar. Hoje, vamos falar de uma curiosidade sobre CSS e uma boa prática de HTML que vai te ajudar a construir páginas melhores."
+
+🎙 2. Curiosidade sobre CSS (40s)
+"Você sabia que no começo o CSS foi criado pensando em dar liberdade para os desenvolvedores deixarem os sites mais bonitos, sem precisar misturar o código visual com o conteúdo?
+Antes disso, tudo era colocado direto no HTML, o que deixava as páginas pesadas e difíceis de organizar.
+O CSS nasceu exatamente para separar o ‘o que aparece’ do ‘o que significa’.
+Ou seja: HTML mostra o conteúdo, e o CSS deixa tudo com estilo, cores, tamanhos e formas.
+Com essa separação, ficou muito mais fácil mudar o visual de um site inteiro alterando apenas um arquivo."
+
+🎙 3. Boa prática de HTML (40s)
+"Uma dica simples, mas muito importante no HTML: usar as tags certas para o que elas representam.
+Por exemplo: <h1> é título principal, <p> é parágrafo, <button> é botão.
+Muita gente usa qualquer tag só para conseguir mudar a aparência com CSS, mas isso é um erro.
+Quando cada tag é usada no lugar certo, o navegador entende melhor a página, o Google entende melhor o conteúdo e até leitores de tela conseguem ajudar pessoas com deficiência visual.
+Ou seja: um HTML bem escrito torna a web mais organizada e acessível."
+
+🎙 4. Encerramento (10–20s)
+"E esse foi o episódio de hoje! Curto e direto.
+Se gostou, continue acompanhando o Front e Rabiscos para aprender front-end de forma simples e sem mistério.
+Valeu e até o próximo episódio!"
